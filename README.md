@@ -1,9 +1,9 @@
 # Setting Up the Project
 
 Hello Autofleet team!
-As the task requires the project has two main components: server, client.
+As the task requires, the project has two main components: server, and client.
 Make sure you are on the project directory.
-The following file describes how to set up each component before running it locally. Let's dive in!
+The following file describes setting up each component before running it locally. Let's dive in!
 
 ## Server
 
@@ -95,6 +95,10 @@ The following file describes how to set up each component before running it loca
    refresh the React app web app
 
 5. If you would like to deploy the project, remove the "proxy" from the package.json file
+
+
+## Task Documentation
+Alongside working on the task, I was writing documentation. You are welcome to read it: https://docs.google.com/document/d/1glXXrgpDZe01EeIgaayXmvWQ3I3WAIGZn7S-7uC2Sl4/edit?usp=sharing
 
 ## Keep in Touch
 If you have any other questions, feel free to send a message: danielsht11@gmail.com
