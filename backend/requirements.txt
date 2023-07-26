@@ -1,0 +1,8 @@
+flask
+flask-smorest
+marshmallow
+pytest
+requests
+shapely
+flask-cors
+gunicorn
